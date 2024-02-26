@@ -1,0 +1,31 @@
+Dear Professor Arturo,
+
+I was contacted by Adrian that he needed help with his homework assignment. I read the instructions to the best of my ability and wow, 
+that was a very difficult assignment. I made a few compromises and did not fullfill all of the requirements of the assignment but did 
+the best that I could with my time constraints. I really leaned into doing this in a more code-centric way than using Godot's built-in 
+A* pathfinding system because I didn't think that was in the spirit of the assignment. So Godot is only being used for its graphical 
+functionality and abstraction of and object orientatede game framework. So no other help or 3rd party code was used in this assignment. 
+I did my best to comment the code as I went along.
+
+I hope that you find this submission to be acceptable and give Adrian an excellent grade for this project. I know I'm not your student, 
+I am a professional game developer located in West Virginia, USA, but i did this to help a good friend.
+
+Thank you very much Sir,
+George S. French
+
+---Spanish Translation Below
+
+Querido profesor Arturo,
+
+Fui contactado por Adrian debido a que necesitaba ayuda con su tarea. Leí las instrucciones lo mejor que pude y wow, ese fue un encargo 
+realmente díficl. Hice unos cuantos compromisos y no pude completar todos los requerimientos de la asignación pero hice lo mejor que pude
+con mis restricciones de tiempo. Me incline a hacer esto de una manera más centrada en código en vez de usar el sistema detrazado de 
+rutas que incluye Godot porqué pensé que no era la intención de la tarea. Así que Godot solo se ha usado por sus capacidades gráficas y
+abstracción de los mismos como framework de desarrollo de juegos. Por lo tanto no hay otro tipo de ayuda o código de terceros utilizado
+para esta asignación. Hice mi mayor esfuerzo para comentar el código al mismo tiempo que lo fui desarrollando.
+
+Espero que encuentre este trabajo como algo bien hecho y que Adrian tenga una buena calificacion por este proyecto. Se que no soy su estudiante,
+soy un desarollador profesional de videojuegos hubicado en West Virginia, USA, pero quise ayudar a un buen amigo.
+
+Muchas gracias profesor.
+George S. French
